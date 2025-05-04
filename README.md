@@ -1,4 +1,5 @@
 📌 Overview
+
 A simple and user-friendly weather application that shows real-time weather data.
 Built with [mention technologies: HTML, CSS, JavaScript, React, etc.].
 Users can search for any city and get current temperature, weather conditions, and more.
